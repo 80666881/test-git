@@ -5,12 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "commit":"git-cz"
+    "commit": "git-cz",
+    "release": "release-it"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "git-cz": "^4.9.0"
+    "@release-it/conventional-changelog": "^5.1.1",
+    "git-cz": "^4.9.0",
+    "release-it": "^15.10.1"
   }
 }
