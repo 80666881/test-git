@@ -1,13 +1,14 @@
 {
   "name": "test-git",
-  "version": "1.1.0",
+  "version": "1.2.0-beta.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "git-cz",
-    "release": "release-it",
-    "release-pre": "release-it minor --preRelease=beta"
+    "release-major": "release-it major",
+    "release-minor": "release-it minor --preRelease=beta",
+    "release-patch": "release-it patch --preRelease=beta"
   },
   "keywords": [],
   "author": "",

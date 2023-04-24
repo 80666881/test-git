@@ -1,5 +1,12 @@
 
 
+# [1.2.0-beta.0](https://github.com/80666881/test-git/compare/v1.1.0...v1.2.0-beta.0) (2023-04-24)
+
+
+### Features
+
+* 🎸 test release-it ([023ae16](https://github.com/80666881/test-git/commit/023ae1609f8c6c3bdce6cb87635c83571a9a183f))
+
 # [1.1.0](https://github.com/80666881/test-git/compare/v0.0.3...v1.1.0) (2023-04-24)
 
 
