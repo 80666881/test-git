@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "git-cz",
-    "release": "release-it"
+    "release": "release-it",
+    "release-pre": "release-it minor --preRelease=beta"
   },
   "keywords": [],
   "author": "",
